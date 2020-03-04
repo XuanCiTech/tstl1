@@ -1,0 +1,14 @@
+{
+    "eventId": 1,
+    "areaImage": "http://192.168.31.13:8094/storage/event/eO42YoFCA9dy7fgD.jpg",
+    "areaImageX": "http://192.168.31.13:8094/storage/event/hGgeNWCC82SVAesZ.jpg",
+    "locations": [
+        {
+            "pid": 1,
+            "lat": 24,
+            "lon": 120,
+            "des": "FESTiO 舞台1",
+            "type": 1
+        }
+    ]
+}
