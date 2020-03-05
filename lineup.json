@@ -1,7 +1,7 @@
 [
     {
         "isshow": true,
-        "name": "拍謝少年",
+        "name": "血肉果汁",
         "date": 1583712000,
         "eventId": 1,
         "info": "活耀於歌手、模特兒。",
@@ -10,7 +10,28 @@
         "duration": 40,
         "start": "10:10",
         "end": "10:50",
-        "play_list": [],
+        "play_list": [
+            {
+                "name": "台十七",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes...."
+            },
+            {
+                "name": "深海的你",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes...."
+            },
+            {
+                "name": "我們苦難的蘋果班",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes...."
+            },
+            {
+                "name": "無題",
+                "img": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/f2/79/4f/f2794fd6-f281-7498-a297-2c4bc9c993a5/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes...."
+            }
+        ],
         "pid": 1
     }
 ]
